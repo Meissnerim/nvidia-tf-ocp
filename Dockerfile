@@ -1,3 +1,3 @@
 FROM tensorflow/tensorflow:latest-gpu-jupyter
 
-RUN pip install pytrends influxdb-client sklearn keras
+RUN pip install pytrends influxdb-client sklearn Keras
