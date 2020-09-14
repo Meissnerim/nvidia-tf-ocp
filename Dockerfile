@@ -1,3 +1,3 @@
 FROM tensorflow/tensorflow:latest-gpu-jupyter
 
-RUN pip install pytrends influxdb-client
+RUN pip install pytrends influxdb-client sklearn
